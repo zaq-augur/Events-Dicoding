@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EventDicoding" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/redPrimary</item>
+        <item name="colorPrimaryContainer">@color/redPrimaryContiner</item>
+        <item name="colorOnPrimary">@color/redOnPrimary</item>
+
+    </style>
+
+    <style name="Theme.EventDicoding" parent="Base.Theme.EventDicoding" />
+</resources>

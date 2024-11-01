@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Event Dicoding</string>
+    <string name="title_activity_bottom_nav">Event Dicoding</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="Register">Register</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="desc_dark_mode">Enable Dark Mode</string>
+    <string name="event">Event</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="no_data">Data not Available</string>
+
+
+</resources>
